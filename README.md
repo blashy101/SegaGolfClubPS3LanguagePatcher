@@ -1,0 +1,1 @@
+# SegaGolfClubPS3LanguagePatcher
