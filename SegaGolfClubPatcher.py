@@ -6,10 +6,10 @@ import sys
 def main():
     print("Place me in PS3_GAME\\USRDIR\\MEDIA\n")
     print("1. English")
-    print("2. German (*)")
-    print("3. Spanish (*)")
-    print("4. French (*)")
-    print("5. Italian (*)")
+    print("2. German/Deutsch (*)")
+    print("3. Spanish/Espanol (*)")
+    print("4. French/Francais (*)")
+    print("5. Italian/Italiano (*)")
     print("(* Accent marks not currently supported)\n")
 
     choice = input("Select a language (1-5): ").strip()
@@ -82,3 +82,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
